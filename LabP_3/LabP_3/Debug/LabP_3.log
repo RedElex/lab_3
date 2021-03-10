@@ -1,0 +1,3 @@
+﻿  LabP_3.cpp
+C:\Users\Sindikat\source\repos\LabP_3\LabP_3\LabP_3.cpp(86,26): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  LabP_3.vcxproj -> C:\Users\Sindikat\source\repos\LabP_3\Debug\LabP_3.exe
